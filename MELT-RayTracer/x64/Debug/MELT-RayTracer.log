@@ -1,0 +1,16 @@
+﻿  RayTracer.cpp
+C:\GitHub\Illumi\MELT-RayTracer\MELT-RayTracer\Vec3.h(63,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\GitHub\Illumi\MELT-RayTracer\MELT-RayTracer\ColorDBL.h(27,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\GitHub\Illumi\MELT-RayTracer\MELT-RayTracer\ColorDBL.h(32,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\GitHub\Illumi\MELT-RayTracer\MELT-RayTracer\ColorDBL.h(37,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\GitHub\Illumi\MELT-RayTracer\MELT-RayTracer\Ray.h(27,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\GitHub\Illumi\MELT-RayTracer\MELT-RayTracer\Triangle.h(21,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\GitHub\Illumi\MELT-RayTracer\MELT-RayTracer\RayTracer.cpp(28,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\GitHub\Illumi\MELT-RayTracer\MELT-RayTracer\RayTracer.cpp(28,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\GitHub\Illumi\MELT-RayTracer\MELT-RayTracer\RayTracer.cpp(28,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\GitHub\Illumi\MELT-RayTracer\MELT-RayTracer\RayTracer.cpp(101,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GitHub\Illumi\MELT-RayTracer\MELT-RayTracer\RayTracer.cpp(102,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GitHub\Illumi\MELT-RayTracer\MELT-RayTracer\RayTracer.cpp(103,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GitHub\Illumi\MELT-RayTracer\MELT-RayTracer\RayTracer.cpp(112,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\GitHub\Illumi\MELT-RayTracer\MELT-RayTracer\RayTracer.cpp(112,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  MELT-RayTracer.vcxproj -> C:\GitHub\Illumi\MELT-RayTracer\x64\Debug\MELT-RayTracer.exe
